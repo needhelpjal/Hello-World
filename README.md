@@ -19,3 +19,5 @@ Also, please make sure you have CORS enabled, by running
 ipfs config --json API.HTTPHeaders '{"Access-Control-Allow-Origin": ["*"]}' - 
 
 I have run the above but do not know what CORS is or how to implement it as I am no coder 
+
+But it is still not working ? any help please.
