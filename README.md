@@ -9,5 +9,6 @@ Almost forgot why I was here I have added IPFS Station to my google browser but 
 Oh snap, it looks like your node is not running yet.
 Please start it by running ipfs daemon on your terminal.
 Also, please make sure you have CORS enabled, by running 
-ipfs config --json API.HTTPHeaders '{"Access-Control-Allow-Origin": ["*"]}'
+ipfs config --json API.HTTPHeaders '{"Access-Control-Allow-Origin": ["*"]}' - 
+
 I have run the above but do not know what CORS is or how to implement it as I am no coder 
