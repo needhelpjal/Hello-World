@@ -21,3 +21,6 @@ ipfs config --json API.HTTPHeaders '{"Access-Control-Allow-Origin": ["*"]}' -
 I have run the above but do not know what CORS is or how to implement it as I am no coder 
 
 But it is still not working ? any help please.
+---------------------------------------------------------------------------------------------------------------------------------
+UPDATE 30 OCTOBER 2017 
+I now have IPFS Station working in chrome browser - But still have not P2P with anyone other than my own file - have still not learnt how to remove a file from IPFSlocalhost:5001/flies - there is a X with a delete next to it at the end of each file - but when X clicked the file is not removed - I added a video file via the drag and drop but it will not play when raw clicked But the mp3 file raw when clicked it plays - I will try the dos r command to upload a video - see you soon and let you know progress - 
